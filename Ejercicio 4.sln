@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio 4", "Ejercicio 4\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conversor Celsius  a Fahrenheit", "Conversor Celsius  a Fahrenheit\Conversor Celsius  a Fahrenheit.csproj", "{C042EE8F-D775-49FD-9B51-9DFF8F1B309B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora 4 operaciones", "Calculadora 4 operaciones\Calculadora 4 operaciones.csproj", "{2A5E7079-453F-4B6D-9B04-D3481D4DBB4A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C042EE8F-D775-49FD-9B51-9DFF8F1B309B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C042EE8F-D775-49FD-9B51-9DFF8F1B309B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C042EE8F-D775-49FD-9B51-9DFF8F1B309B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A5E7079-453F-4B6D-9B04-D3481D4DBB4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A5E7079-453F-4B6D-9B04-D3481D4DBB4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A5E7079-453F-4B6D-9B04-D3481D4DBB4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A5E7079-453F-4B6D-9B04-D3481D4DBB4A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
